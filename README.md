@@ -40,7 +40,7 @@ The script ([PyPoll_Challange.py](https://github.com/sharof17/Election_Analysis/
 
 ![Change data source](Resources/change_source.png)
 
-Also, it is important to state that the script can be used for any sort of election. For example, to conduct analysis for federal elections, the input "county" can be changed to "state". 
+Also, it is important to state that the script can be used for any sort of election. For example, to conduct analysis for federal elections, the input "county" can be changed to "state". The script is not limited by 3 electoral pricincts or 3 candidates. There may be as many pricincts and candidates as needed.
 
 Moreover, it is possible to make some deeper modifications to the script, to get more detailed results. e.g., percentage of each county voted for each candidate.
 

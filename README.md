@@ -1,11 +1,11 @@
 # Election_Analysis
 
 ## Project overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+At the request of a Colorado Board of Elections, the following tasks were given to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate won.
+2. Calculate the percentage of votes from each county and its voter turnout.
+3. Determine the county with the largest voter turnout.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
@@ -23,7 +23,7 @@ The analysis of the election show that:
 - The candidate results were:
   - Candidate 1 received "x%" of the vote and "y" number of votes.
   - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.\
+  - Candidate 3 received "x%" of the vote and "y" number of votes.
 - The winner of the election was:
   - Candidate (1,2 or 3), who received "x%" of the vote and "y" number of votes.
 
